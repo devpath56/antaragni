@@ -51,6 +51,14 @@ and enduring repeated defeat.
 
 **Why:** coverage of a tradition is not the goal.
 
+### Asks a question still open
+A source must not spend its length answering a question this casebook has already settled.
+
+**Why:** judge the question a text asks, not the size of its readership. A popularity test would cut
+the Tirukkuṟaḷ before it cut anything else. The Bhagavad Gītā was admitted and then removed on this
+criterion — its premise is a man arguing himself into entering a fight, and that question is closed
+here.
+
 ## Form
 
 Verse for heuristics. Prose and narrative admitted for concept and exceptions.
