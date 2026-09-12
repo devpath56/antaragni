@@ -17,7 +17,7 @@ candidate).
 | **Bharata**, *Nāṭyaśāstra* | India · ~200 BCE–200 CE | **held** | rasa as a production function for audience effect |
 | **Pāṇini**, *Aṣṭādhyāyī* | India · ~5th–4th c. BCE | **held** | narrowed to *utsarga* / *apavāda* and rule-conflict precedence — a formal theory of the exceptions field |
 | **Kabir** | India · 15th c. | **held** | frame-break strand only. Renunciation excluded — incompatible with the householder frame |
-| **Zeami**, *Fūshikaden* | Japan · c. 1400 | **held** | training curriculum by performer age, with the losing years written in. *Hiden* — secret until 1909 |
+| **Zeami**, *Fūshikaden* | Japan · c. 1400 | **held** | striving stream. Training curriculum by performer age, with the losing years written in. *Hiden* — secret until 1909 |
 | **Abhinavagupta** | Kashmir · c. 950–1016 | **apparatus** | supplies *sādhāraṇīkaraṇa*, the mechanism under Bharata. Prose commentary, so not scored |
 | **Patañjali**, *Yoga Sūtra* | India · ~2nd–4th c. CE | **bench** | *abhyāsa* and the nine obstacles are a ready-made situation index. Displaced from the striving stream by Zeami |
 | **Bhartṛhari**, *Nīti Śataka* | India · ~5th c. | **bench** | one verse states the whole striving domain: the best are struck again and again and do not abandon what they began |
@@ -48,14 +48,14 @@ candidate).
 
 | name | region · era | status | reasoning |
 |---|---|---|---|
-| **Machiavelli**, *Prince* + *Discourses* | Florence · 1513 | **proposed** | power stream. Cleanest collision in the table; strains "modern" on periodization |
-| **Robert Caro**, *The Power Broker*, *Years of LBJ* | US · 1974–2012 | **proposed** | power stream alternative. Forensic where Valluvar is prescriptive |
-| **Nassim Taleb** | modern | **proposed** | authority stream. Time-tested things carry information you cannot see — against Kabir |
-| **Thomas Schelling**, *Strategy of Conflict* | US · 1960 | **proposed** | contest stream. Win by credible commitment, against the *Pañcatantra*'s deception |
-| **Edward Bernays**, *Propaganda* | US · 1928 | **proposed** | moving-people stream. Manufacture consent, against Bharata's universalisation |
-| **Nietzsche** | Germany · 19th c. | **proposed** | striving stream. Self-overcoming, against stilling the fluctuations |
-| **Karl Popper** | Austria/UK · 20th c. | **proposed** | reasoning stream. Never confirm, only fail to refute — against Nyāya's positive *pramāṇa* theory |
-| **Kurt Gödel** | Austria · 1931 | **proposed** | generating stream. Incompleteness as the hard limit on Pāṇini's project |
+| **Robert Caro**, *The Power Broker*, *Years of LBJ* | US · 1974–2012 | **held** | power stream. Forensic where Valluvar is prescriptive. *Power doesn't corrupt, power reveals* |
+| **Machiavelli**, *Prince* + *Discourses* | Florence · 1513 | **bench** | the cleaner doctrinal collision, but 1513 strains the modern-Western rule. One word restores him |
+| **Nassim Taleb** | modern | **held** | authority stream. Time-tested things carry information you cannot see — against Kabir |
+| **Thomas Schelling**, *Strategy of Conflict* | US · 1960 | **held** | contest stream. Win by credible commitment, against the *Pañcatantra*'s deception |
+| **Edward Bernays**, *Propaganda* | US · 1928 | **held** | moving-people stream. Manufacture consent, against Bharata's universalisation |
+| **Nietzsche** | Germany · 19th c. | **held** | striving stream. Self-overcoming, against stilling the fluctuations |
+| **Karl Popper** | Austria/UK · 20th c. | **held** | reasoning stream. Never confirm, only fail to refute — against Nyāya's positive *pramāṇa* theory |
+| **Kurt Gödel** | Austria · 1931 | **held** | generating stream. Incompleteness as the hard limit on Pāṇini's project |
 | **Anders Ericsson**, *Peak* | Sweden/US · modern | **bench** | deliberate practice. Empirical grounding for whether losses compound without feedback |
 | **Robert Cialdini**, *Influence* | US · 1984 | **bench** | more usable than Bernays, less revealing |
 | **Daniel Kahneman** | Israel/US · 2011 | **bench** | reasoning stream alternative. The reasoner is systematically broken |

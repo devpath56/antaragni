@@ -6,8 +6,10 @@ Settled 2026-09-12. Supersedes the sapta-rishi framing in `0002` discussion.
 
 Seven streams of thought, each steered by **two** sources that counterbalance each other.
 
-- **One bank ancient and subcontinental.** The source of the stream.
-- **One bank modern and global.** The corrective.
+- **One bank Eastern.** Ancient, and from the traditions this corpus descends from.
+- **One bank Western.** Modern.
+- **The pair is symmetric.** Neither is the source and neither is the corrective — operator ruling,
+  2026-09-12. They disagree; direction is not a property the architecture needs.
 - **Sindhu is the confluence, not a tributary** — the main stem is the person the seven feed.
 
 ## Why pairs rather than single sources
@@ -24,23 +26,26 @@ the shape of the whole thing.
 
 1. **Both banks or the stream stays shut.** A stream is not open until both sources are read.
    Otherwise the result is fourteen half-read sources and no cases.
-2. **Ancient subcontinental on one side, modern global on the other.** Not classical Western — the
-   corrective should come from a different era as well as a different tradition, or the pair shares
-   too many assumptions to disagree usefully.
+2. **Ancient Eastern on one side, modern Western on the other.** Widened from *subcontinental* to
+   *Eastern* on 2026-09-12 so that Zeami enters as a bank rather than through a carve-out. The cost
+   is named rather than hidden: sapta sindhu is an Indus metaphor, and pan-Eastern intake widens the
+   mouth past the watershed the structure is named for. Not fatal, and taken knowingly.
+
+   The Western bank must be **modern**, not classical — a corrective from a different era as well as
+   a different tradition, or the pair shares too many assumptions to disagree usefully. This is what
+   cut Aristotle, Thucydides, Epictetus, Hume, Burke and Sextus Empiricus, none of them on merit.
 3. **A modern counterpart is admitted only if its teaching is high agency.** A source that explains
    why a person is not in control of their outcomes fails this, however true it may be. Freud is
    refused on exactly this ground; Bernays, who took the same material and made it operational, is
    not.
-4. **A stream may take a third source: the witness.** Two banks disagree; a witness *independently
-   agrees*. Where a tradition with no contact with the source arrived at the same craft, agreement
-   is evidence of something close to a universal and divergence isolates what is culture-bound.
-   This is a different epistemic job from the corrective, and it is the only exception to rule 2 —
-   a witness is admitted on independence, not on era or region.
+4. **The witness role is withdrawn.** It was invented to admit Zeami past a subcontinental-only
+   rule. Widening that bank to *Eastern* admits him directly, and a carve-out that is no longer
+   load-bearing is a rule that will later be cited for something it was never meant to cover.
 
-   **Zeami**, *Fūshikaden*, c. 1400, is the witness on the moving-people stream. A performance
-   treatise developed a thousand years and five thousand kilometres from Bharata with no contact
-   between them. His first chapter, a training curriculum organised by the age of the performer,
-   also feeds the striving stream.
+   Zeami takes the **striving** stream, not the moving-people stream: his first chapter is a
+   training curriculum organised by the age of the performer, with the losing years written into it,
+   and his warnings that applause is not skill are exception-dense, which is what that stream
+   lacked. **Patañjali goes to the bench**, not out.
 
 5. **River names are not assigned.** They carry no semantics that could be mapped honestly, and
    forcing them repeats the mistake that killed the rishi mapping. One exception, below.
