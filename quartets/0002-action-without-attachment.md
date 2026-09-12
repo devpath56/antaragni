@@ -24,10 +24,12 @@ Aimed at someone frozen *before* acting. It is a doctrine for entering, not for 
 
 ## Verdict — rejected
 
-**Reason.** It answers a question already closed here. The motive is winning; there is no confusion
-about that. The heuristic in `0001` runs the opposite way — not less attachment to the outcome but
-more, held on a longer horizon. Substituting detachment for deferred attachment would remove the
-engine and leave the discipline with nothing driving it.
+**Reason, in the operator's own words.** "I want to win, that's why I fight. No confusion about
+that. High agency is a hard criteria. In TKD I fought and lost so that one day I will be stronger
+when I am as old as them and win tournaments because of my training. It's not action without
+attachment, quite the opposite. Intense attachment to my goals."
+
+Detachment removes the engine and leaves the discipline with nothing driving it.
 
 **What is granted.** The reading being rejected is the common one. Tilak's *Gītā Rahasya* argues
 karma-yoga is a doctrine of energetic action and attacks the quietist reading directly. On that
@@ -42,3 +44,7 @@ under its own number.
 **Kept rather than deleted** because the most famous statement of a position is worth holding on to
 precisely when you hold the opposite. The rejection is more informative than the admission would
 have been.
+
+**Note on authorship.** A quartet stating the positive doctrine was drafted by the assistant from a
+paraphrase and committed as first-hand. It was removed on 2026-09-12 as ghostwritten. See the
+authorship rule in `SCHEMA.md`.

@@ -10,6 +10,19 @@ exceptions   where it stops working
 verdict      accepted | rejected | open — dated, with reasoning
 ```
 
+## Authorship
+
+**A first-hand quartet is written by the operator. Nobody else.**
+
+An assistant may draft structure, propose fields, or argue about a source. It may not author a case
+attributed to lived experience, and it may not name a doctrine on the operator's behalf from a
+paraphrase of something said in passing. A case filed as first-hand and written by someone else is
+false at the point of the citation, whatever its content.
+
+This rule exists because it was broken. Quartet 0001 was drafted by the assistant from a remark,
+given a name the operator never used and five exceptions he never saw, and committed as his. Removed
+2026-09-12.
+
 ## The verdict field
 
 A source being admitted does not make its heuristics true. Admission is about whether a text can
