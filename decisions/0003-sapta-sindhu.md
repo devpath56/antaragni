@@ -31,7 +31,18 @@ the shape of the whole thing.
    why a person is not in control of their outcomes fails this, however true it may be. Freud is
    refused on exactly this ground; Bernays, who took the same material and made it operational, is
    not.
-4. **River names are not assigned.** They carry no semantics that could be mapped honestly, and
+4. **A stream may take a third source: the witness.** Two banks disagree; a witness *independently
+   agrees*. Where a tradition with no contact with the source arrived at the same craft, agreement
+   is evidence of something close to a universal and divergence isolates what is culture-bound.
+   This is a different epistemic job from the corrective, and it is the only exception to rule 2 —
+   a witness is admitted on independence, not on era or region.
+
+   **Zeami**, *Fūshikaden*, c. 1400, is the witness on the moving-people stream. A performance
+   treatise developed a thousand years and five thousand kilometres from Bharata with no contact
+   between them. His first chapter, a training curriculum organised by the age of the performer,
+   also feeds the striving stream.
+
+5. **River names are not assigned.** They carry no semantics that could be mapped honestly, and
    forcing them repeats the mistake that killed the rishi mapping. One exception, below.
 
 ## Sarasvatī names the reasoning stream
