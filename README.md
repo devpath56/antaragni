@@ -17,6 +17,7 @@ Everything here is a **case quartet**. Four fields, all required:
 | **heuristic** | what to do |
 | **concept** | why it works |
 | **exceptions** | where it stops working |
+| **verdict** | accepted, rejected, or open — dated, with reasoning |
 
 ## The rule
 
@@ -30,6 +31,20 @@ is mandatory, and the exceptions field is the actual product.
 
 If the exceptions for a case are genuinely unknown, that gets written down as unknown. It does not
 get omitted.
+
+## Rejections are the signal
+
+A source being admitted does not make its heuristics true. Admission asks whether a text can fill
+four fields; acceptance asks whether the reasoning survives inspection. Nothing is taken on
+reputation.
+
+So a case can be stated in full and then refused, and those entries are the informative ones. Anyone
+can agree with Valluvar. What gets refused, and on what date, is the part that is specific to one
+person — and read in sequence over years, the rejections record a change in character that the
+acceptances cannot.
+
+Every rejection states the case at full strength first, carries a date, and names **what would
+reopen it**. A rejection with no reopening condition is a preference, not a judgement.
 
 ## Portability
 
