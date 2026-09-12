@@ -29,10 +29,18 @@ under controlled conditions is what builds the capacity.
 That is a different mechanism. Endurance is about surviving what happens to you. This is about
 selecting your defeats on purpose and metabolising them.
 
-The nearest classical doctrine is *abhyāsa* — sustained, uninterrupted practice — but it sits in
-sources outside this corpus and is framed toward stillness rather than contest.
+## Correction to the paragraph above
 
-**Provisional ruling:** for this one domain the primary source is first-hand — a decade of martial
-training before university, showing up daily to be beaten by taller and stronger opponents. Write
-those quartets from experience and cite them as such. An honest first-hand case beats a borrowed
-one, and the exceptions field is the place to be ruthless about what did *not* transfer.
+As first written this said the nearest doctrine "sits in sources outside this corpus", which was
+true of the six sources chosen and false as an implication about the tradition. The subcontinent
+covers this domain well. The gap was in the source list, not in the literature. Three candidates:
+
+| candidate | what it supplies |
+|---|---|
+| **Bhagavad Gītā** | a warrior collapsing before a fight he does not want, argued back into acting with a claim on the action and none on the result. Argues *against* withdrawal, so it passes the householder gate outright |
+| **Yoga Sūtra**, Book 1 + *kriyā yoga* | *abhyāsa* and *vairāgya*: practice takes root only when sustained a long time, unbroken, with sincerity — plus a numbered list of the nine things that break a practice, which is a ready-made situation index |
+| **Bhartṛhari**, *Nīti Śataka* | one verse that states the whole domain: the low never begin for fear of obstacles; the middling begin and stop when struck; the best, struck again and again, do not abandon what they began. Same *nīti* genre as Valluvar and the Pañcatantra |
+
+**Ruling:** the Gītā enters, scoped to the action-without-attachment material. First-hand cases are
+still written and cited as first-hand — a borrowed case does not replace a lived one, it gives it a
+concept field.

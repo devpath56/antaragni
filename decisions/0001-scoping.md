@@ -15,10 +15,15 @@ Settled 2026-09-12.
 
 ## Open
 
-- **Nyāya scope.** Four tiers priced: means of knowledge only / plus the fallacy catalogue / plus the
-  full bad-faith and grounds-of-defeat taxonomy / the entire work. Recommendation is the third —
-  it is the only tier that helps in a room with another person, and it is natively quartet-shaped.
-  Not yet chosen.
+None at this layer.
+
+## Chosen after pricing
+
+- **Nyāya scope: the full adversarial catalogue.** Means of valid knowledge, plus the fallacies of
+  the stated reason, plus deliberate equivocation, the twenty-four hollow rejoinders and the
+  twenty-two grounds of defeat. Chosen over the narrower tiers because it is the only one that helps
+  in a live room with another person, and because each named move is already quartet-shaped:
+  situation, why it is void, and what it still permits.
 
 ## Reversed
 
