@@ -13,13 +13,13 @@ ruling needed. Open rulings are listed in `decisions/0005`.
 
 | # | stream | Eastern | text | Western | text | what they fight about | status |
 |---|---|---|---|---|---|---|---|
-| 1 | **power** | Tiruvaḷḷuvar | *Tirukkuṟaḷ* — *Poruṭpāl* entire; *Aṟattuppāl* as spine; *Kaṟpiyal* | Robert Caro | *The Power Broker* | virtue binds power · power reveals what constraint was hiding | **open** — Caro never ratified; Machiavelli on the bench |
+| 1 | **power** | Tiruvaḷḷuvar | *Tirukkuṟaḷ* — *Poruṭpāl* entire; *Aṟattuppāl* as spine; *Kaṟpiyal* | Robert Caro | *The Power Broker* | virtue binds power · power reveals what constraint was hiding | **firm** — Caro ratified under the agency lens (`decisions/0006`) |
 | 2 | **authority** | Kabir | **Guru Granth Sahib recension**; *Kabir-granthāvalī* *aṅga* headings as the situation index; *Bījak* for the exceptions field | Nassim Taleb | *Antifragile* | scripture is a dead letter without realisation · the longest-surviving forms carry information you cannot see | **fix** — fight narrowed to scripture; text supplied for both banks |
 | 3 | **contest** | Viṣṇuśarman | *Pañcatantra*, all five books | Thomas Schelling | *The Strategy of Conflict* | win through the adversary's mind · win by removing your own options so credibly you cannot retreat | **fix** — "deception" misdescribed the *nīti* |
-| 4 | **moving people** | Bharata, with Abhinavagupta as concept field | *Nāṭyaśāstra* ch. 6–7, plot, character types; *Abhinavabhāratī* on rasa | Edward Bernays | *Propaganda* | universalise so an audience shares the feeling · manufacture consent against their interest | **fix** — Bernays kept for the vīra → adbhuta pair (see the 5 → 4 seam); Brecht on the bench |
-| 5 | **striving** | Zeami | *Fūshikaden* | Friedrich Nietzsche | *Thus Spoke Zarathustra* (proposed) | follow a staged form transmitted by a master · overcome every form you were handed | **open** — title unratified; neither bank covers *chosen* defeat as method; Patañjali benched against a stated practice |
+| 4 | **moving people** | Bharata, with Abhinavagupta as concept field | *Nāṭyaśāstra* ch. 6–7, plot, character types; *Abhinavabhāratī* on rasa | Edward Bernays | *Propaganda* | universalise so an audience shares the feeling · manufacture consent against their interest | **firm** — Bernays ratified for the stream: audience as object against the *sahṛdaya* as agent |
+| 5 | **striving** | Zeami | *Fūshikaden* | Friedrich Nietzsche | *Thus Spoke Zarathustra* | follow a staged form transmitted by a master · overcome every form you were handed | **fix** — *Zarathustra* ratified; Patañjali tension closed (`0006`). Still unfilled: *chosen* defeat as method, the gap `0002` named — a first-hand quartet, not a source |
 | 6 | **Sarasvatī** — reasoning | Gautama | *Nyāya Sūtra*, full adversarial tier | Karl Popper | *The Logic of Scientific Discovery*; *Conjectures and Refutations* | establish truth by valid means · never confirm anything, only fail to refute | **firm** |
-| 7 | **generating** | Pāṇini | *Aṣṭādhyāyī* 1.4.1–2 with the *paribhāṣā* tradition (*Mahābhāṣya*, Nāgeśa) | Kurt Gödel | *On Formally Undecidable Propositions*, 1931 | a finite rule set can generate everything · completeness has a price no system escapes | **open** — operator's pick; incompleteness is the wrong theorem for a grammar; Kātyāyana on the bench |
+| 7 | **generating** | Pāṇini | *Aṣṭādhyāyī* 1.4.1–2 with the *paribhāṣā* tradition (*Mahābhāṣya*, Nāgeśa) | Kurt Gödel | *On Formally Undecidable Propositions*, 1931 | a finite rule set can generate everything · completeness has a price no system escapes | **firm** — Gödel ratified: the agent exceeds its own generator. Kātyāyana is the Eastern evidence |
 
 ## The 5 → 4 seam: vīra → adbhuta
 
@@ -39,6 +39,17 @@ Break conditions: the deed is expected · the witness is a rival (*amarṣa*, ra
 belief (hāsya) · no witness · the witness could have done it.
 
 *To be attempted:* a painting of the vīra / adbhuta table — operator's note, 2026-09-12.
+
+## The agency lens
+
+Ruled 2026-09-12 (`decisions/0006`): Trika over Siddhānta. The self is agent before it is knower.
+Read through that lens, six of seven pairs share a shape — the Eastern bank asserts the agent's
+power, the Western bank names a limit — and the limits are Trika's five *kañcukas*: *kalā*
+(capacity), *vidyā* (knowledge), *rāga* (desire), *kāla* (time), *niyati* (constraint). Stream 5 is
+the reversal: Zeami's form is the constraint and Nietzsche overcomes it.
+
+Two tools follow. Type every exception by its kañcuka. Grade every heuristic by its *upāya* —
+technique, reframe, or will. Neither changes the symmetric-pairs rule.
 
 ## Why Sarasvatī, and only Sarasvatī
 

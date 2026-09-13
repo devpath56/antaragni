@@ -48,3 +48,9 @@ have been.
 **Note on authorship.** A quartet stating the positive doctrine was drafted by the assistant from a
 paraphrase and committed as first-hand. It was removed on 2026-09-12 as ghostwritten. See the
 authorship rule in `SCHEMA.md`.
+
+**Second reopening condition, appended 2026-09-12.** Abhinavagupta's *Gītārthasaṃgraha* reads
+*karma-yoga* through Trika: action from fullness (*pūrṇatā*), not from detachment. Under
+`decisions/0006` that is now the operator's own ground. If the commentary supports holding a goal
+intensely while acting from fullness rather than lack, the heuristic admitted would again be a
+different one from the one refused here, and would take its own number. The rejection stands.
