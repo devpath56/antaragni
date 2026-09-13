@@ -9,7 +9,7 @@ boundary conditions, or it doesn't go in.
 
 ## The unit
 
-Everything here is a **case quartet**. Four fields, all required:
+Everything here is a **case quartet**. Four fields state the case; a fifth audits it. All required:
 
 | field | what it holds |
 |---|---|
@@ -50,7 +50,9 @@ reopen it**. A rejection with no reopening condition is a preference, not a judg
 
 A case is useless if it arrives welded to someone else's biography. The classical name for the fix
 is **sādhāraṇīkaraṇa** — universalization: stripping the ownership markers so a situation becomes
-anyone's, without simplifying it.
+anyone's, without simplifying it. The term is Bhaṭṭa Nāyaka's (c. 900), whose work survives only
+through Abhinavagupta quoting and arguing with it; Abhinavagupta reworks the mechanism into his own
+theory of rasa, and it is his version this casebook uses.
 
 The Pañcatantra does this with animals. A jackal has no biography, so the decision situation
 arrives pre-universalized. The proof is in the transmission — those stories crossed into Pahlavi,
@@ -59,22 +61,25 @@ Syriac, Arabic and Latin, and the characters survived all four.
 Simplification is not the goal. Depersonalization is. Over-strip and you get a platitude with no
 grip; the fable keeps the well, the drum, the cave, and drops only the biography.
 
-## Sources
+## Sources — sapta sindhu
 
-Six authorities, scoped deliberately. Coverage of a tradition is not the goal — coverage of the
-situations I actually face is.
+Seven streams of thought, each steered by **two sources that disagree** — one Eastern and ancient,
+one Western and modern. Neither bank is the source and neither is the corrective. The disagreement
+locates the boundary that neither would have marked alone, which is how the exceptions field gets
+filled structurally rather than by waiting for a text to volunteer its own limits.
 
-| source | scope taken | for |
-|---|---|---|
-| **Tirukkuṟaḷ** (Valluvar) | *Poruṭpāl* entire; *Kāmattuppāl* second half; *Aṟattuppāl* as spine only | holding power well, sustained intimacy |
-| **Pañcatantra** (Viṣṇuśarman) | all five books | winning contests |
-| **Nyāya Sūtra** (Gautama) | scope open — see `decisions/` | reasoning against adversaries |
-| **Nāṭyaśāstra** (Bharata) | rasa and bhāva, plot construction, character types | moving people |
-| **Aṣṭādhyāyī** (Pāṇini) | metarules and conflict resolution only | designing generators |
-| **Kabir** | frame-break dohas only | refusing an inherited frame |
+| # | stream | Eastern | Western | for |
+|---|---|---|---|---|
+| 1 | power | Tiruvaḷḷuvar, *Tirukkuṟaḷ* | Robert Caro, *The Power Broker* | holding power well, sustained intimacy |
+| 2 | authority | Kabir, GGS recension | Nassim Taleb | refusing an inherited frame |
+| 3 | contest | Viṣṇuśarman, *Pañcatantra* | Thomas Schelling | winning contests |
+| 4 | moving people | Bharata, *Nāṭyaśāstra* (+ Abhinavagupta) | Edward Bernays | moving people |
+| 5 | striving | Zeami, *Fūshikaden* | Friedrich Nietzsche | enduring repeated defeat |
+| 6 | reasoning — *Sarasvatī* | Gautama, *Nyāya Sūtra* | Karl Popper | reasoning against adversaries |
+| 7 | generating | Pāṇini, *Aṣṭādhyāyī* | Kurt Gödel | designing generators |
 
-**Abhinavagupta** sits alongside these as an apparatus layer, not a scored source — he supplies the
-mechanism under Bharata rather than cases of his own.
+Scope per source, open rulings, and what each pair fights about: `sources/STREAMS.md`. Every
+thinker weighed and where they landed: `sources/CONSIDERED.md`.
 
 ### Why Pāṇini is read first
 
@@ -83,13 +88,15 @@ plus the precedence orderings that resolve rule conflicts, Pāṇini stops being
 becomes a formal theory of the fourth field of the quartet.
 
 He is the only source here that theorizes how an exception relates to the rule it breaks. So he is
-the schema, not the content.
+the schema, not the content. Most of the ordering machinery lives in the *paribhāṣā* tradition
+that grew around him — Patañjali's *Mahābhāṣya* and later Nāgeśa — rather than in the sūtras
+themselves.
 
 ## Layout
 
 ```
 CRITERIA.md    what a source must yield to be admitted, and why
-sources/       one file per authority: scope taken, scope rejected, reasoning
+sources/       the seven streams, and every thinker considered
 quartets/      the cases
 decisions/     scoping calls and their prices — including the ones later reversed
 ```
@@ -99,6 +106,7 @@ method. A quietly deleted one is marketing.
 
 ## Status
 
-v0. Criteria settled, sources scoped, quartets not yet written.
+v0. Criteria settled, fourteen banks accepted provisionally, one quartet (a rejection). No stream is
+open yet: a stream opens when both banks are read.
 
 Chapter numbers throughout are marked where they still need verification against a primary edition.
