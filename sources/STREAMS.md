@@ -16,10 +16,29 @@ ruling needed. Open rulings are listed in `decisions/0005`.
 | 1 | **power** | Tiruvaḷḷuvar | *Tirukkuṟaḷ* — *Poruṭpāl* entire; *Aṟattuppāl* as spine; *Kaṟpiyal* | Robert Caro | *The Power Broker* | virtue binds power · power reveals what constraint was hiding | **open** — Caro never ratified; Machiavelli on the bench |
 | 2 | **authority** | Kabir | **Guru Granth Sahib recension**; *Kabir-granthāvalī* *aṅga* headings as the situation index; *Bījak* for the exceptions field | Nassim Taleb | *Antifragile* | scripture is a dead letter without realisation · the longest-surviving forms carry information you cannot see | **fix** — fight narrowed to scripture; text supplied for both banks |
 | 3 | **contest** | Viṣṇuśarman | *Pañcatantra*, all five books | Thomas Schelling | *The Strategy of Conflict* | win through the adversary's mind · win by removing your own options so credibly you cannot retreat | **fix** — "deception" misdescribed the *nīti* |
-| 4 | **moving people** | Bharata, with Abhinavagupta as concept field | *Nāṭyaśāstra* ch. 6–7, plot, character types; *Abhinavabhāratī* on rasa | Edward Bernays | *Propaganda* | universalise so an audience shares the feeling · manufacture consent against their interest | **open** — Brecht is the direct collision and is on the bench |
+| 4 | **moving people** | Bharata, with Abhinavagupta as concept field | *Nāṭyaśāstra* ch. 6–7, plot, character types; *Abhinavabhāratī* on rasa | Edward Bernays | *Propaganda* | universalise so an audience shares the feeling · manufacture consent against their interest | **fix** — Bernays kept for the vīra → adbhuta pair (see the 5 → 4 seam); Brecht on the bench |
 | 5 | **striving** | Zeami | *Fūshikaden* | Friedrich Nietzsche | *Thus Spoke Zarathustra* (proposed) | follow a staged form transmitted by a master · overcome every form you were handed | **open** — title unratified; neither bank covers *chosen* defeat as method; Patañjali benched against a stated practice |
 | 6 | **Sarasvatī** — reasoning | Gautama | *Nyāya Sūtra*, full adversarial tier | Karl Popper | *The Logic of Scientific Discovery*; *Conjectures and Refutations* | establish truth by valid means · never confirm anything, only fail to refute | **firm** |
 | 7 | **generating** | Pāṇini | *Aṣṭādhyāyī* 1.4.1–2 with the *paribhāṣā* tradition (*Mahābhāṣya*, Nāgeśa) | Kurt Gödel | *On Formally Undecidable Propositions*, 1931 | a finite rule set can generate everything · completeness has a price no system escapes | **open** — operator's pick; incompleteness is the wrong theorem for a grammar; Kātyāyana on the bench |
+
+## The 5 → 4 seam: vīra → adbhuta
+
+One derivation from Bharata's scheme (NS 6.39–41) is kept; the other three are cut. *Vīra* — the
+state of the one striving, *utsāha* — belongs to stream 5, where `decisions/0002` already filed it.
+*Adbhuta* — the wonder of the one who sees the deed done — belongs to stream 4. The arrow between
+them is the deed's result (*karma*), and it is the mechanism behind the operator's stated axis
+*leadership and inspiring others*: striving, witnessed, becomes wonder.
+
+The pair has an anchor on both Eastern banks. Zeami's *hana* is the same arrow from the performer's
+side — *hisureba hana*: concealed, it is the flower; revealed, it is not — which is Bharata's break
+condition *the deed is expected → no wonder*, derived independently. And it settles row 4's open
+ruling for this pair: Bernays is **adbhuta without vīra** — wonder manufactured with no deed under
+it — which is a real collision. Brecht would refuse adbhuta outright, a different fight. Bernays stays.
+
+Break conditions: the deed is expected · the witness is a rival (*amarṣa*, raudra) · the deed exceeds
+belief (hāsya) · no witness · the witness could have done it.
+
+*To be attempted:* a painting of the vīra / adbhuta table — operator's note, 2026-09-12.
 
 ## Why Sarasvatī, and only Sarasvatī
 
