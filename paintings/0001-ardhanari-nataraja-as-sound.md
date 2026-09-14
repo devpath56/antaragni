@@ -3,8 +3,9 @@
 **Author:** the operator. Concept, sketch, and caption are first-hand. The render below was
 generated from the operator's pencil sketch and spec; the physical painting is to follow.
 **Date:** 2026-09-13
-**Panel:** to be ruled. By its figure it is panel 4 (Ardhanārīśvara); by its last line it is panel 8
-(sangam). See `README.md`.
+**Panel:** 8 — sangam. Ruled 2026-09-13: the caption decides — *she nurtures the sapt sindhu of life* is
+the confluence, said outright, and the seven strands of hair are the seven streams. Panel 4 stays
+open for an Ardhanārīśvara without the ring and the dwarf.
 
 **Image:** `0001-ardhanari-nataraja-as-sound.jpg` — 2048×2048, the study rendered from the sketch.
 
