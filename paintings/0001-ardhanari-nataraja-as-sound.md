@@ -6,7 +6,9 @@ generated from the operator's pencil sketch and spec; the physical painting is t
 **Panel:** to be ruled. By its figure it is panel 4 (Ardhanārīśvara); by its last line it is panel 8
 (sangam). See `README.md`.
 
-**Image:** `0001-ardhanari-nataraja-as-sound.png` — to be added; the file was not on disk at filing.
+**Image:** `0001-ardhanari-nataraja-as-sound.jpg` — 2048×2048, the study rendered from the sketch.
+
+![Ardhanārī-Naṭarāja as sound](0001-ardhanari-nataraja-as-sound.jpg)
 
 ## Caption
 
