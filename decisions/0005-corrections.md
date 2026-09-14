@@ -27,7 +27,7 @@ that belong to the operator left **open**.
 | B | Bernays or Brecht on stream 4 | Bernays is a *who*-moves theory; Brecht is the direct *how* collision with rasa |
 | C | Gödel or Kātyāyana on stream 7 | Gödel is the operator's pick; incompleteness is the wrong theorem for a grammar; Kātyāyana is Eastern and would break the East/West rule |
 | D | Patañjali on the bench against a stated Ashtanga practice | stream 5 as filled does not cover *chosen* defeat as method, which `0002` named as the real gap; Yagyū and Ericsson on the bench fit it |
-| E | Does the Authority gate apply to modern banks | Zeami (secret until 1909), Kabir outside the GGS, Taleb, Bernays and Caro all fail it as written |
+| E | Does the Authority gate apply to modern banks | Zeami (secret until 1909), Kabir outside the GGS, Taleb, Bernays and Caro all fail it as written. **Closed 2026-09-13 — gate removed, see `0007`** |
 | F | Is the East/West-ancient/modern rule worth its cost | it cut Aristotle, Thucydides, Epictetus, Hume, Burke and Sextus "none on merit"; Aristotle vs Bharata is plausibly the best pairing in the space |
 
 ## Not corrected

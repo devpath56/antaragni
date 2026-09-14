@@ -5,7 +5,7 @@ because a criterion you can't justify is one you can't apply consistently.
 
 ## Gates — pass/fail
 
-A source failing any one of these is out, regardless of how well it scores below.
+A source failing either of these is out, regardless of how well it scores below.
 
 ### Quartet-completable
 Yields all four fields, from the text plus its commentary tradition.
@@ -17,13 +17,6 @@ Organized by, or decomposable into, namable moments rather than abstract topics.
 
 **Why:** this casebook is queried situationally, under pressure. A source organized by theme cannot
 be reached from inside a situation.
-
-### Authority
-A stable text with reliable numbering, and a commentary tradition that argued about it.
-
-**Why:** two reasons. Stable numbering means a case can be cited twice and mean the same thing. A
-contested text matters more — a text nobody ever pushed on has no exceptions recorded, because
-nobody ever found its edges.
 
 ## Scored
 
@@ -79,3 +72,13 @@ not knowledge absent.
 
 Universalization is a processing layer applied to material after selection. It is not a filter on
 what material gets in. It now sits in the pipeline, not the gate.
+
+### Authority — cut from the gates
+Originally a gate: a stable text with reliable numbering, and a commentary tradition that argued
+about it.
+
+**Why removed:** operator ruling, 2026-09-13 — "stable text not important anywhere." Applied as
+written it failed half the modern banks (Caro, Bernays, Taleb), Zeami (sealed until 1909), and every
+Kabir outside one recension. Like transfer cost, it measured a downstream convenience — how easily a
+case can be cited twice — not the source's knowledge. Citation is solved by naming the edition in the
+case. The commentary half survives where it was load-bearing, as the scored criterion above.
